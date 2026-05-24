@@ -1,6 +1,9 @@
-## Hi there, I'm Muhammad Fahad! 👋 <img src="https://media.giphy.com/media/hvXCLtE85OFQ4/giphy.gif" width="30px">
+# Hi there, I'm Muhammad Fahad! 👋 <img src="https://media.giphy.com/media/hvXCLtE85OFQ4/giphy.gif" width="30px">
 
-<img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Space&fontSize=30&animation=twinkle" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3ECF8E&width=435&lines=Flutter+Developer;Building+Mobile+Apps;Exploring+Machine+Learning" alt="Typing SVG" />
+</a>
 
 ## 💻 Tech Stack:
 
